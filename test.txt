@@ -1,3 +1,4 @@
 Adding new lines to check git pull features
 
 adding new lines to test git push
+checking if git status will know the local repo is behind origin main
